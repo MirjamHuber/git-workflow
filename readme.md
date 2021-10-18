@@ -8,3 +8,4 @@
 6. pushen
 7. pull request erstellen
 8. :) 
+9. :(
